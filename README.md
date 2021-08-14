@@ -1,1 +1,1 @@
-# django-pandas-sqllite-load
+# django-pandas-sqllite-load-via-custom-command
